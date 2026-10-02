@@ -8,7 +8,8 @@ The existing application architecture is moved to AWS with minimal changes to th
 
 ## Architecture
 
-![Lift-and-Shift AWS Architecture](lift and shift application workload.png)
+![Lift-and-Shift AWS Architecture](lift%20and%20shift%20application%20workload.png)
+
 
 
 
